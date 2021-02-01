@@ -1,0 +1,75 @@
+#main-navbar-1 {
+	width: 100%;
+	background: #ffffff;
+}
+
+.navbar {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin: auto;
+	padding: 0;
+	padding-left: 20px;
+	padding-right: 20px;
+	max-width: 1024px;
+}
+
+.navbar-brand{
+	padding: 0;
+}
+
+.navbar-nav > li {
+	font-size: 0.8em;
+}
+
+.navbar-nav > li:hover {
+	border-radius: 5px;
+	box-shadow: 0 3px 5px rgba(0, 0, 0, 0.3);
+}
+
+.navbar-toggler {
+	background-color: #0092C0;
+	border-radius: 5px;
+	
+}
+
+.navbar-toggler:hover {
+	box-shadow: 0 3px 5px rgba(0, 0, 0, 0.3);
+}
+
+.form-inline > #language:hover {
+	color: #05668D;
+	padding: 0px;
+	margin-right: 10px;
+	border-radius: 5px;
+	box-shadow: 0 3px 5px rgba(0, 0, 0, 0.3);
+}
+
+.form-inline > #language {
+	color: #05668D;
+	font-size: 0.7em;
+	padding: 0px;
+	margin-right: 10px;
+	border-radius: 5px;
+}
+
+#signup-btn {
+	color: #05668D;
+	background-color: lightgray;
+	margin-right: 5px;
+	width: 70px;
+	font-size: 0.65em;
+}
+
+#signup-btn:hover {
+	box-shadow: 0 3px 5px rgba(0, 0, 0, 0.3);
+}
+
+#login-btn {
+	margin-left: 5px;
+	width: 70px;
+	font-size: 0.65em;
+}
+
+#login-btn:hover {
+	box-shadow: 0 3px 5px rgba(0, 0, 0, 0.3);
+}
